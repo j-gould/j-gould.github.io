@@ -1,5 +1,6 @@
 ---
 title:  "Quickly create a virtual python environment"
+author: Jonathan Gould
 ---
 
 There will come a time when you install a python library and it creates havoc with your existing python environment.  
