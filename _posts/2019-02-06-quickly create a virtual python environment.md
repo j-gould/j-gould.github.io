@@ -2,11 +2,13 @@
 title:  "Quickly create a virtual python environment"
 ---
 
-There will come a time when you install a python library and it creates havoc with your existing python environment.  Here I offer a very quick solution to enable you to install new libraries on a test or virtual environment and, if you choose, also include your global installed dependencies.
+There will come a time when you install a python library and it creates havoc with your existing python environment.  
+
+A very quick solution to enable you to install new libraries on a test or virtual environment and, if you choose, also include your global installed dependencies.
 
 Note, your new environment will store it's dependencies in it's own directory which you define.  It will not share dependencies with other virtual environments.  It can access your globally installed dependencies, such as numpy, pandas, and sklearn if you choose.
 
-I employ the tool virtualenv in a unix/python3 setup.
+I employ the tool [virtualenv](https://virtualenv.pypa.io/en/latest/) in a unix/python3 setup.
 
 ```python
 $ pip install virtualenv
