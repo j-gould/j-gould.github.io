@@ -7,7 +7,7 @@ _This is the first in a series of "1 minute blogs" aimed at aspiring data scient
 
 There will come a time when you install a python library and it creates havoc with your existing python environment.  Here is a very quick solution.
 
-[virtualenv](https://virtualenv.pypa.io/en/latest/) enables you to install new libraries on a test or virtual environment and, if you choose, also include your global installed dependencies.
+__[virtualenv](https://virtualenv.pypa.io/en/latest/)__ enables you to install new libraries on a test or virtual environment and, if you choose, also include your global installed dependencies.
 
 Your new environment will store it's dependencies in it's own directory which you define.  It will not share dependencies with other virtual environments, and it can access your globally installed dependencies, such as numpy, pandas, and sklearn, if you choose.
 
