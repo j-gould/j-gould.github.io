@@ -3,6 +3,8 @@ title:  "Quickly create a virtual python environment"
 author: Jonathan Gould
 ---
 
+This is the first in a series of "1 minute blogs" aimed at aspiring data scientists.  I will attempt to keep them short, sharp, and practical.   
+
 There will come a time when you install a python library and it creates havoc with your existing python environment.  
 
 A very quick solution to enable you to install new libraries on a test or virtual environment and, if you choose, also include your global installed dependencies.
