@@ -8,6 +8,6 @@ I am an aspiring Data Scientist and Business Intelligence professional.  I have 
 
 In my spare time I enjoy playing guitar and reading.
 
-[www.linkedin.com/in/jonathan-gould](https://www.linkedin.com/in/jonathan-gould/)
+[Linkedin](https://www.linkedin.com/in/jonathan-gould/)
 
 
